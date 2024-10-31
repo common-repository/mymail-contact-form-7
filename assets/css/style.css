@@ -1,0 +1,6 @@
+#mymail-map li:first-child .cf7-mymail-remove-field{
+	display: none;
+}
+.cf7-mymail-remove-field{
+	text-decoration: none;
+}
